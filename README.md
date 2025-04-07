@@ -1,16 +1,17 @@
-## Hi there 👋
+# 안녕하세요! 👋
 
-<!--
-**KOR-wooclic/KOR-wooclic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 컴퓨터과학을 전공하는 개발자입니다.  
+프론트엔드부터 백엔드까지 다양하게 관심을 갖고 공부하고 있어요.
 
-Here are some ideas to get you started:
+## 🔧 기술 스택
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- 🔙 Backend: Node.js, Express
+- 🗃 Database: MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+## 🧠 최근 공부한 기술
+- Spring Framework
+- OpenAI API 연동
+- 컴퓨터 논리회로 및 이산수학
