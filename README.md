@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Doe</h1>
-<h3 align="center">A passionate full-stack developer from South Korea</h3>
+## 📈 GitHub 활동 통계
 
-- 🔭 I’m currently working on [AI 기반 게시판 프로젝트](https://github.com/yourusername/board-ai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🌱 I’m currently learning **Node.js, Spring Boot, Docker**
-
-- 📫 How to reach me **johndoe@example.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
- <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
