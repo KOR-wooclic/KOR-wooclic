@@ -1,3 +1,3 @@
-## 📊 GitHub 통계
+## 🧱 3D GitHub Contributions
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![3D Profile](https://raw.githubusercontent.com/yoshi38911/github-profile-3D-Contrib/main/profile-season-animate.svg)
