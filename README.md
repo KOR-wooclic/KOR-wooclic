@@ -1,18 +1,14 @@
-[# 안녕하세요! 👋
+<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h3 align="center">A passionate full-stack developer from South Korea</h3>
 
-저는 컴퓨터과학을 전공하는 개발자입니다.  
-프론트엔드부터 백엔드까지 다양하게 관심을 갖고 공부하고 있어요.
+- 🔭 I’m currently working on [AI 기반 게시판 프로젝트](https://github.com/yourusername/board-ai)
 
-## 🔧 기술 스택
-- 🌐 Frontend: HTML, CSS, JavaScript, React
-- 🔙 Backend: Node.js, Express
-- 🗃 Database: MySQL, MongoDB
+- 🌱 I’m currently learning **Node.js, Spring Boot, Docker**
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+- 📫 How to reach me **johndoe@example.com**
 
-## 🧠 최근 공부한 기술
-- Spring Framework
-- OpenAI API 연동
-- 컴퓨터 논리회로 및 이산수학
-](https://github.com/KOR-wooclic)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
