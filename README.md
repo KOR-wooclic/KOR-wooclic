@@ -1,3 +1,5 @@
-## 🧱 3D GitHub Contributions
-
-![3D Profile](https://raw.githubusercontent.com/yoshi38911/github-profile-3D-Contrib/main/profile-season-animate.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KOR-wooclic&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KOR-wooclic&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KOR-wooclic&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KOR-wooclic&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KOR-wooclic&theme=2077&utcOffset=8)
